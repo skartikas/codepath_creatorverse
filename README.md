@@ -29,7 +29,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-* [ ] List anything else that you added to improve the site's functionality!
+* [*] None
 
 ## Video Walkthrough
 
@@ -41,7 +41,7 @@ GIF created with ...  EZGif
 
 ## Notes
 
-Describe any challenges encountered while building the app or any additional context you'd like to add.
+Only slight challenge was creating a scalable file structure!
 
 ## License
 
